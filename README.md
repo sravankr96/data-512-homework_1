@@ -4,7 +4,7 @@
 
 # data-512-homework_1
 
-This repository contains the Homework 1 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
+This repository contains analysis of page views of wikipedia articles intended for the Homework 1 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
 # Goal of this Project: Professionalism & Reproducibility
 
