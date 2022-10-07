@@ -23,7 +23,6 @@ Feel free to go through the below additional documentation
 Here are the main folders in our github data-512-homework_1 repository:
 ```bash
 data-512-homework_1
-├── DATA 512 Homework 1 Tharun.ipynb
 ├── HW1_dino_page_visits_analysis.ipynb
 ├── JSON_data
 │   ├── dino_monthly_cumulative_201507-202209.json
